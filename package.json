@@ -1,0 +1,8 @@
+{
+  "name": "spotifyServer",
+  "description": "Spotify server controlled by websocket",
+  "author": "Lionel Penaud <penaud.lionel@gmail.com>",
+  "dependencies": {},
+  "readme": "README.md",
+  "repository": "https://github.com/lionep/spotify-server-app"
+}
